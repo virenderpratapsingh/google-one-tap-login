@@ -9,6 +9,7 @@ Just provide the Google client ID and a callback function to handle the user det
 `npm i google-one-tap-login --save`
 
 # Integration
+
 ...
 import GoogleOneTap from 'google-one-tap-login';
 <GoogleOneTap
