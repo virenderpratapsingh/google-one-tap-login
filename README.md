@@ -10,13 +10,13 @@ Just provide the Google client ID and a callback function to handle the user det
 
 # Integration
 
-...
+```
 import GoogleOneTap from 'google-one-tap-login';
 <GoogleOneTap
   clientId={'google-client-id'} /* Google Id from your registered Google account */
   onSuccess={googleUserDetailsHandler} /* User details provided by Google are handled by this function */
 />
-...
+```
 
 ## Props
 
