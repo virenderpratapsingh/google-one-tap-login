@@ -1,0 +1,11 @@
+{
+  "name": "google-one-tap-login",
+  "version": "1.0.0",
+  "description": "This package encapsulate the Google's One Tap Login functionality. It requires minimum integration steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Virender Singh",
+  "license": "ISC"
+}
