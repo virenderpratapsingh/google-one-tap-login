@@ -1,14 +1,14 @@
-#Google One Tap Login React Component
+# Google One Tap Login React Component
 
 This is a simple integration component for the Google One Tap Login functionality on your website.
 
 Just provide the Google client ID and a callback function to handle the user details after the successful login.
 
-#Installation
+# Installation
 
 `npm i google-one-tap-login --save`
 
-#Integration
+# Integration
 ...
 import GoogleOneTap from 'google-one-tap-login';
 <GoogleOneTap
@@ -17,7 +17,7 @@ import GoogleOneTap from 'google-one-tap-login';
 />
 ...
 
-##Props
+## Props
 
 * *clientId* - 'google-client-id-for-your-website' - *Mandatory*
 * *onSuccess* - callback function which handles the user details provided by Google - *Mandatory*
