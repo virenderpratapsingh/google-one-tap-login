@@ -7,5 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Virender Singh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virenderpratapsingh/google-one-tap-login.git"
+  },
+  "keywords": [
+    "google-one-tap",
+    "google",
+    "one",
+    "tap",
+    "login"
+  ],
+  "bugs": {
+    "url": "https://github.com/virenderpratapsingh/google-one-tap-login/issues"
+  },
+  "homepage": "https://github.com/virenderpratapsingh/google-one-tap-login#readme"
 }
